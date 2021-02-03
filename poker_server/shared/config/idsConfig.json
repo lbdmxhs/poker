@@ -1,0 +1,16 @@
+{
+	"userids": {
+	  "from":10000000,
+      "to":99999999,
+      "countpath":"data/idcounts.txt",
+      "path":"data/ids.txt",
+      "create":false
+  },
+  "clubids": {
+	  "from":100000,
+      "to":999999,
+      "countpath":"data/clubidscounts.txt",
+      "path":"data/clubids.txt",
+      "create":false
+	}
+}

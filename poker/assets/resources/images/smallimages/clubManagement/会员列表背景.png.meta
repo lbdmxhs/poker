@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "89fd6f97-1ad8-4311-97c4-95ef42660a48",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "会员列表背景": {
+      "ver": "1.0.4",
+      "uuid": "0e0f2733-b826-4f26-aa46-3050e70fe5d6",
+      "rawTextureUuid": "89fd6f97-1ad8-4311-97c4-95ef42660a48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 364,
+      "height": 472,
+      "rawWidth": 364,
+      "rawHeight": 472,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

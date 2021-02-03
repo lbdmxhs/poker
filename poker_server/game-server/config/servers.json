@@ -1,0 +1,43 @@
+{
+  "development":{
+    "connector": [
+    {"id": "connector-server-1", "host": "127.0.0.1", "port": 3150,  "clientPort": 3010, "frontend": true}
+    ],
+    
+    "gate": [
+      {"id": "gate-server-1", "host": "127.0.0.1", "port": 3250,"clientPort": 3014, "frontend": true}
+    ],
+    "auth": [
+      {"id": "auth-server-1", "host": "127.0.0.1", "port": 3350},
+      {"id": "auth-server-2", "host": "127.0.0.1", "port": 3351}
+    ],
+    "game": [
+      {"id": "game-server-1", "host": "127.0.0.1", "port": 3450},
+      {"id": "game-server-2", "host": "127.0.0.1", "port": 3451}
+		],
+    "room": [
+      {"id": "room-server-1", "host": "127.0.0.1", "port": 3550},
+      {"id": "room-server-2", "host": "127.0.0.1", "port": 3551}
+		]
+  },
+  "production":{
+    "connector": [
+    {"id": "connector-server-1", "host": "127.0.0.1", "port": 3150,  "clientPort": 3010, "frontend": true}
+    ],
+    "gate": [
+      {"id": "gate-server-1", "host": "127.0.0.1", "port": 3250,"clientPort": 3014, "frontend": true}
+    ],
+    "auth": [
+			{"id": "auth-server-1", "host": "127.0.0.1", "port": 3350},
+      {"id": "auth-server-2", "host": "127.0.0.1", "port": 3351}
+		],
+    "game": [
+			{"id": "game-server-1", "host": "127.0.0.1", "port": 3450},
+      {"id": "game-server-2", "host": "127.0.0.1", "port": 3451}
+		],
+    "room": [
+      {"id": "room-server-1", "host": "127.0.0.1", "port": 3550},
+      {"id": "room-server-2", "host": "127.0.0.1", "port": 3551}
+		]
+  }
+}

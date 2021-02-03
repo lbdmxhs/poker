@@ -1,0 +1,21 @@
+{
+	"development": {
+	  "host" : "127.0.0.1",
+		"port" : "3306",
+		"database" : "poker",
+		"user" : "root",
+		"password" : "root",
+		"connectionPoolMin":2,
+		"connectionPoolMax":10
+	},
+
+	"production": {
+	  "host" : "127.0.0.1",
+		"port" : "3306",
+		"database" : "poker",
+		"user" : "root",
+		"password" : "root",
+		"connectionPoolMin":2,
+		"connectionPoolMax":10
+	}
+}

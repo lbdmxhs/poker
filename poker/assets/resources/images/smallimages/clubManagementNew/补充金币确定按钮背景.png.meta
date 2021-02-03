@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cefa7fd6-b9b6-477e-bc7c-f78d5194f58e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "补充金币确定按钮背景": {
+      "ver": "1.0.4",
+      "uuid": "95422b40-0b30-45b5-984c-134354ba9772",
+      "rawTextureUuid": "cefa7fd6-b9b6-477e-bc7c-f78d5194f58e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 36,
+      "rawWidth": 98,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

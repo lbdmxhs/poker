@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "89aea9a4-a40a-4551-a428-e0de7e1ae7dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "钻石2金币兑换": {
+      "ver": "1.0.4",
+      "uuid": "f186e809-8c3a-40e3-ae98-d6c1c51f2c04",
+      "rawTextureUuid": "89aea9a4-a40a-4551-a428-e0de7e1ae7dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 37,
+      "height": 29,
+      "rawWidth": 37,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

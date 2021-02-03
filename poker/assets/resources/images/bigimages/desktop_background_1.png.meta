@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "171d358d-0775-490c-915c-2b55157f863a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "desktop_background_1": {
+      "ver": "1.0.4",
+      "uuid": "c195049a-e50a-432c-a9d0-99a67b04a73f",
+      "rawTextureUuid": "171d358d-0775-490c-915c-2b55157f863a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 621,
+      "height": 1106,
+      "rawWidth": 621,
+      "rawHeight": 1106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

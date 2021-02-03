@@ -1,0 +1,10 @@
+{
+  "name": "poker",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": "^3.4.8",
+    "generic-pool": "^3.7.1",
+    "mysql": "^2.18.1"
+  }
+}

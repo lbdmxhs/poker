@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fd024e3b-8f24-4756-ae8f-3cc087540668",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "框  送钻石金币": {
+      "ver": "1.0.4",
+      "uuid": "99a8bdd0-85cc-4125-8a56-953e7410097d",
+      "rawTextureUuid": "fd024e3b-8f24-4756-ae8f-3cc087540668",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 439,
+      "height": 204,
+      "rawWidth": 439,
+      "rawHeight": 205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
